@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+chroma_db/
+.DS_Store
+rag_before_company_fix.py
+rag_final_working.py
