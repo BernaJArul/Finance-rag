@@ -1,4 +1,4 @@
-# FinanceRAG - Financial Report Question Answering System
+# Finance RAG – Intelligent Financial Document Analysis System
 
 ## 1. Project Overview
 
